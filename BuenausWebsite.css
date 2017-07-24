@@ -1,0 +1,32 @@
+/* Buenau's Website CSS */
+
+/*nav bar background-color*/
+ nav.navbar.navbar-default{
+	background-color: maroon;
+}
+
+/*nav bar active color*/
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #FFcc00;
+    background-color: #94b8b8;
+}
+
+/* nav bar text color */
+.navbar-default .navbar-nav>li>a {
+    color: #FFcc00;
+}
+
+/* nav bar brand font color */
+.navbar-default .navbar-brand {
+    color: #FFcc00;
+}
+
+/* heading background image */	
+div.jumbotron{
+	background-image: url("mathbackground.jpg");
+}
+
+.jumbotron .h1, .jumbotron h1 {
+    color: maroon;
+	font-weight: bold;
+}
