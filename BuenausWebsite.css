@@ -49,3 +49,17 @@ th {
     background-color: #4CAF50;
     color: white;
 }
+
+div.well{
+	text-align: center;
+	background-color: maroon;
+}
+
+.tutorForm {
+    color: gold;
+    text-decoration: none;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+
