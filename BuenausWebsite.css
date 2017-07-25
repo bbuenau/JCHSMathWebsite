@@ -30,3 +30,22 @@ div.jumbotron{
     color: maroon;
 	font-weight: bold;
 }
+
+/*table adjustments */
+table, td, th {
+    border: 1px solid black;
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
